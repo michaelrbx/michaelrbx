@@ -17,6 +17,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrbx&repo=robloxscripts)](https://github.com/michaelrbx/RobloxScripts) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrbx&repo=maniabot)](https://github.com/michaelrbx/maniabot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrbx&repo=rockhillsupport)](https://github.com/michaelrbx/rockhillsupport)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrbx&repo=SwiftLink)](https://github.com/michaelrbx/SwiftLink)
 
 
+<img src="https://img.shields.io/badge/NODE.JS-js?logo=Node.js&style=for-the-badge&color=1f1f1f"></img>
+<img src="https://img.shields.io/badge/JAVASCRIPT-js?logo=Javascript&style=for-the-badge&color=1f1f1f"></img>
+<img src="https://img.shields.io/badge/LUA-js?logo=Lua&style=for-the-badge&color=1f1f1f"></img>
+<img src="https://img.shields.io/badge/HTML-js?logo=HTML5&style=for-the-badge&color=1f1f1f"></img>
 
 
 
